@@ -30,7 +30,6 @@ The dataset consists of over 4,000 English-Burushaski sentence pairs collected f
  **Clone the Repository**:
    ```bash
    git clone https://github.com/Kainattkhan/Brushaski_Translation_Chatbot.git
-   cd burushaski-translation-bot
    ```
 
 ## Model Architecture
